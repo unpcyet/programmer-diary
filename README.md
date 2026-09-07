@@ -88,11 +88,11 @@ Saat ini saya sedang ingin belajar mengenai networking untuk saya yang tidak tah
 
 Namun sebelum itu, saya harus tahu dulu apa saja yang harus saya pelajari di subjek tersebut dan dari mana saya harus memulai belajarnya berdasarkan urutan yang sesuai.
 
-Nah, itu merupakan sebagian kecil dari keseluruhan prompt yang akan saya berikan ke kamu, cuman sebelum saya memberikan keseluruhan promptnya, saya mendapati sebuah masalah dalam hal penulisan promptnya yaitu saya tidak tahu cara membuat atau menulis prompt secara terstruktur dan jelas. Oleh karena itu, saya akan membuat atau menulis keseluruhan promptnya berdasarkan semampunya saya saja (unstructured text).
+Nah, kalimat di atas hanya merupakan sebagian kecil dari keseluruhan prompt yang akan saya berikan ke kamu, cuman sebelum saya memberikan atau menunjukkan keseluruhan promptnya, saya mendapati sebuah masalah dalam hal penulisan promptnya yaitu saya tidak tahu cara membuat atau menulis prompt secara sistematis dan efektif. Oleh karena itu, saya akan membuat atau menulis keseluruhan promptnya berdasarkan semampunya saya saja (unstructured text).
 
-Dengan begitu, sebelum kamu merespon, kalau masih ada keraguan atau belum sepenuhnya jelas bisa langsung tanyakan mengenai apa saja (relevan dengan permintaan atau pertanyaan saya) ke saya pada keseluruhan session ini.
+Dengan begitu, sebelum kamu merespon, kalau masih ada keraguan atau belum sepenuhnya jelas terhadap permintaan atau jawaban saya, bisa langsung tanyakan mengenai apa saja (relevan dengan permintaan atau jawaban saya) ke saya pada keseluruhan session ini, sehingga nantinya kamu bisa memberikan jawaban atau solusi atas apa yang sedang saya butuhkan dengan tingkat keyakinan dan kepercayaan diri yang tinggi.
 
-Oke, sekarang sudah saatnya saya harus menunjukkan hasil keseluruhan dari pembuatan atau penulisan prompt saya (unstructured text) sebagai berikut ini:
+Oke, sekarang sudah saatnya saya harus memulai session ini dengan cara menunjukkan hasil keseluruhan dari pembuatan atau penulisan prompt saya (unstructured text) sebagai berikut ini:
 
 Jadi saat ini saya rencanya mau belajar mengenai networking melalui ChatGPT, cuman karena saya tidak tahu apa-apa mengenai networking, jadinya saya tidak tahu memulainya itu dari mana dan sampai mana.
 ```
